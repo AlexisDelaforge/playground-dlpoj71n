@@ -1,6 +1,6 @@
-function tocBoum(n1,n2)
+function tocBoum(n1)
 {
- return [n1,n2];
+ return [n1,n1];
 }
 
 // { autofold
